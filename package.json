@@ -2,7 +2,7 @@
   "name": "theNEWS",
   "main": "./index.html",
   "icon": "icon.png",
-  "icon_color": "white",
+  "icon_color": "gray",
   "version": "1.0.0",
   "author": "Ted Hall + Ryan Sturmer",
   "website": "http://www.handibot.com",
