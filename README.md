@@ -1,2 +1,2 @@
-# fabmo-the-news-app
-fabmo new app
+#theNEWS
+FabMo NEWS App for Handibot
