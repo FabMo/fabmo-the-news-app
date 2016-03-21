@@ -1,13 +1,13 @@
 {
-  "name": "Quick Launch",
+  "name": "theNEWS",
   "main": "./index.html",
   "icon": "icon.png",
-  "icon_color": "green",
-  "version": "0.0.7",
+  "icon_color": "white",
+  "version": "1.0.0",
   "author": "Ted Hall + Ryan Sturmer",
   "website": "http://www.handibot.com",
-  "description": "Running a first file with your Handibot ...",
-  "id": "fabmo-quick-launch",
+  "description": "theNEWS from Handibot ...",
+  "id": "fabmo-the-news",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-zip": "^0.17.1"

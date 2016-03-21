@@ -1,5 +1,5 @@
-$("#get-safety").click(function(evt) {
-    fabmo.navigate('http://docs.handibot.com/doc-output/Handibot_2_MANUAL_Safety.pdf', {target : '_blank'});
+$("#call-news").click(function(evt) {
+    fabmo.navigate('http://docs.handibot.com/news/index.html', {target : '_blank'});
 });
 $("#get-manual").click(function(evt) {
     fabmo.navigate('http://docs.handibot.com/doc-output/Handibot_2_MANUAL_Setup.pdf', {target : '_blank'});
