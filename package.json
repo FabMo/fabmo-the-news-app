@@ -1,5 +1,7 @@
 {
   "name": "theNEWS",
+  "repository" : "https://github.com/FabMo/fabmo-the-news-app.git",
+  "license" : "Apache-2.0",
   "main": "./index.html",
   "icon": "icon.png",
   "icon_color": "gray",
