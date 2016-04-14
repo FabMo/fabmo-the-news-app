@@ -9,4 +9,4 @@ This app is a good example of how to launch an external website from within a Fa
 
 ## Test Drive
 
-Test drive this app online [here.](http://fabmo.github.io/fabmo-the-news-app)
+Test drive this app online [here.](http://fabmo.github.io/news)
