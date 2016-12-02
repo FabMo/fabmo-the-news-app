@@ -1,10 +1,10 @@
 {
-  "name": "Handibot-News",
+  "name": "News",
   "repository" : "https://github.com/FabMo/fabmo-the-news-app.git",
   "license" : "Apache-2.0",
   "main": "./index.html",
   "icon": "icon.png",
-  "icon_color": "#464646",
+  "icon_color": "#aaaaaa",
   "version": "1.0.1",
   "author": "Ted Hall",
   "website": "http://www.handibot.com",
