@@ -1,14 +1,14 @@
 {
-  "name": "theNEWS",
+  "name": "Handibot-News",
   "repository" : "https://github.com/FabMo/fabmo-the-news-app.git",
   "license" : "Apache-2.0",
   "main": "./index.html",
   "icon": "icon.png",
-  "icon_color": "gray",
+  "icon_color": "#464646",
   "version": "1.0.1",
-  "author": "Ted Hall + Ryan Sturmer",
+  "author": "Ted Hall",
   "website": "http://www.handibot.com",
-  "description": "theNEWS from Handibot ...",
+  "description": "Handibot News and Information",
   "id": "fabmo-the-news",
   "devDependencies": {
     "grunt": "^0.4.5",
