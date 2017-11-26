@@ -5,7 +5,7 @@
   "main": "./index.html",
   "icon": "icon.png",
   "icon_color": "#aaaaaa",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Ted Hall + Ryan Sturmer + Jimmy Lucidarme",
   "website": "http://www.handibot.com",
   "description": "Handibot News and Information",

@@ -5,7 +5,7 @@ FabMo The NEWS App for Handibot
 
 ## Developer Note
 
-This app is a good example of how to launch an external website from within a FabMo app.  The News app simply has an embedded URL to the handibot News site that loads in an iframe.
+This app shows current newsletter to user. It is also an example of how to open a new window and post a link or document from within  from within a FabMo app.  The News app simply has an embedded URL to the handibot News site that loads in this separate frame so that other tasks can be started outside FabMo.
 
 ## Test Drive
 

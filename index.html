@@ -14,11 +14,14 @@
             border: none;
         }
     </style>
+
   </head>
   <body>
-    <iframe src="http://docs.handibot.com/news"></iframe>
+  	<p> <<< Click to return to Home Screen </p>
   </body>
-  <script src="js/fabmo.js"></script>
+
+  <script src="js/lib/jquery.js"></script>
+  <script src="js/lib/fabmo.js"></script>
   <script> 
       try {
           var fabmo = new FabMoDashboard();
@@ -26,7 +29,7 @@
   </script>        
   <script type="text/javascript">        
         $(document).ready(function() {
-          iframe.contentWindow.location.reload();
+            fabmo.navigate('http://docs.handibot.com/news', {target : '_blank'});
         });
     </script>
 
